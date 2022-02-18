@@ -1,0 +1,52 @@
+﻿  Ghost.cpp
+  glerror.cpp
+  globals.cpp
+  ICP.cpp
+C:\Users\Martin\Documents\icp-g\ICP\ICP.cpp(50,23): warning C4244: '=': conversion from 'const _Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Martin\Documents\icp-g\ICP\ICP.cpp(51,23): warning C4244: '=': conversion from 'const _Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Martin\Documents\icp-g\ICP\ICP.cpp(72,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Martin\Documents\icp-g\ICP\ICP.cpp(74,92): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Martin\Documents\icp-g\ICP\ICP.cpp(74,87): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Light.cpp
+  lua_engine.cpp
+  lua_interface.cpp
+  Maze.cpp
+C:\Users\Martin\Documents\icp-g\ICP\Maze.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Martin\Documents\icp-g\ICP\Maze.cpp(21,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Martin\Documents\icp-g\ICP\Maze.cpp(22,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Martin\Documents\icp-g\ICP\Maze.cpp(27,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Martin\Documents\icp-g\ICP\Maze.cpp(28,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Mesh.cpp
+C:\Users\Martin\Documents\icp-g\ICP\Mesh.cpp(6,25): warning C4267: '=': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Martin\Documents\icp-g\ICP\Mesh.cpp(47,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Model.cpp
+  OBJloader.cpp
+  shader.cpp
+  Texture.cpp
+  Generating Code...
+  LINK : program database C:\Users\Martin\Documents\icp-g\x64\Debug\ICP.pdb missing; performing full link
+  ICP.vcxproj -> C:\Users\Martin\Documents\icp-g\x64\Debug\ICP.exe
