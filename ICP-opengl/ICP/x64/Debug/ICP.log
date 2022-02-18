@@ -1,0 +1,45 @@
+﻿  Ghost.cpp
+  glerror.cpp
+  globals.cpp
+  ICP.cpp
+C:\Users\Martin\Documents\icp-e\ICP\ICP.cpp(226,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Martin\Documents\icp-e\ICP\ICP.cpp(227,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Martin\Documents\icp-e\ICP\ICP.cpp(228,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Martin\Documents\icp-e\ICP\ICP.cpp(229,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Martin\Documents\icp-e\ICP\ICP.cpp(284,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Martin\Documents\icp-e\ICP\ICP.cpp(285,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Martin\Documents\icp-e\ICP\ICP.cpp(302,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Martin\Documents\icp-e\ICP\ICP.cpp(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martin\Documents\icp-e\ICP\ICP.cpp(452,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martin\Documents\icp-e\ICP\ICP.cpp(575,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martin\Documents\icp-e\ICP\ICP.cpp(576,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martin\Documents\icp-e\ICP\ICP.cpp(581,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martin\Documents\icp-e\ICP\ICP.cpp(582,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martin\Documents\icp-e\ICP\ICP.cpp(583,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martin\Documents\icp-e\ICP\ICP.cpp(584,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Light.cpp
+  lua_engine.cpp
+  lua_interface.cpp
+  Maze.cpp
+C:\Users\Martin\Documents\icp-e\ICP\Maze.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Martin\Documents\icp-e\ICP\Maze.cpp(21,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Martin\Documents\icp-e\ICP\Maze.cpp(22,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Martin\Documents\icp-e\ICP\Maze.cpp(27,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Martin\Documents\icp-e\ICP\Maze.cpp(28,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Mesh.cpp
+C:\Users\Martin\Documents\icp-e\ICP\Mesh.cpp(6,25): warning C4267: '=': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Martin\Documents\icp-e\ICP\Mesh.cpp(47,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Model.cpp
+  OBJloader.cpp
+  shader.cpp
+  Texture.cpp
+  Generating Code...
+  ICP.vcxproj -> C:\Users\Martin\Documents\icp-e\x64\Debug\ICP.exe
